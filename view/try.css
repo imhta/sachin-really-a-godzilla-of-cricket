@@ -1,0 +1,57 @@
+.im-text{
+  font-size: 25px;
+  }
+.cover-img{
+  width: 100%;
+  height: 70vh;
+  background: url(https://i.ibb.co/BcxLyGY/sachin-tendulkar-1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.cover-img2{
+  width: 100%;
+  height: 70vh;
+  background: url(https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/24/675342-628501-sachin-tendulkar-odi-no.numder-10-ten-jersey.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.cover-slide-header{
+  height: 30vh;
+  padding: 10px;
+  background-color: #193460
+}
+.cover-slide-header h1, h3{
+  color: white;
+  text-align: center
+}
+
+
+.cover-slide-content .chart-card{
+  margin: 20px;
+  width: 100%;
+  padding: 0
+}
+.cover-slide-content .fan1{
+  padding: 0;
+  background: url(https://st3.cricketcountry.com/wp-content/uploads/cricket/image_20131114140539.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.cover-slide-content .fan2{
+  padding: 0;
+  background: url(https://ichef.bbci.co.uk/news/624/media/images/70937000/jpg/_70937746_sachinfans2ap.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+.cover-slide-content .fan3{
+  padding: 0;
+  background: url(https://im.rediff.com/money/2013/oct/31sachin1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
