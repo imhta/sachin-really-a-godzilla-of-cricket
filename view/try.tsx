@@ -44,6 +44,7 @@ export class Try extends Component {
 
         <Cards
           cards={local_data.there.cards}
+          footer_text=""
           isEnd={false} />
         <div className="cover-slide-content">
 

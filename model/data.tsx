@@ -6,7 +6,7 @@ export const local_data = {
       sm2: 'is a former Indian cricketer, widely regarded to be the',
       b2: 'greatest cricketer of all time."'
     },
-    main_cover_sub: 'but what data says',
+    main_cover_sub: "Let's see what data say",
   },
   two: {
     content_div: {
@@ -39,7 +39,7 @@ export const local_data = {
       {
         p_title1: 'Cricketer who played',
         h_title: '664',
-        p_title2: 'in their career'
+        p_title2: 'in his career'
       }
     ]
   },
@@ -61,32 +61,32 @@ export const local_data = {
         p_title2: 'span'
       },
       {
-        p_title1: 'He scored',
+        p_title1: '',
         h_title: '2016',
         p_title2: 'fours'
       },
       {
-        p_title1: 'He scored',
+        p_title1: '',
         h_title: '195',
         p_title2: 'sixes'
       },
       {
-        p_title1: 'He faced',
+        p_title1: '',
         h_title: '21367',
         p_title2: 'balls'
       },
       {
-        p_title1: 'He scored',
+        p_title1: '',
         h_title: '96',
         p_title2: 'half centuries'
       },
       {
-        p_title1: 'He scored',
+        p_title1: '',
         h_title: '49',
         p_title2: 'centuries'
       }
     ],
-    footer: 'If you are searching about cricket in internet definitely you will see the records this master blaster'
+    footer: 'If you are searching about cricket in internet definitely you will find the records of this master blaster'
   }
 
 }
